@@ -1,8 +1,8 @@
 import math
 from decimal import Decimal
 
-# NaN (Not a Number)
-a = float("NaN")
+# NaN (Not a Namber)
+a = float('nan')
 print(f'a: {a}')
 
 # Modulo math
